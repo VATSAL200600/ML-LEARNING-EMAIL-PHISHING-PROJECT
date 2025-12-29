@@ -33,6 +33,7 @@ for **educational and experimentation purposes**.
 - Provides a simple Flask-based interface for experimentation
 
 ---
+<img width="884" height="559" alt="Screenshot 2025-12-30 013610" src="https://github.com/user-attachments/assets/19be11f8-4ae2-45c0-9386-092b106afa0c" />
 
 ## 📊 Experiment Results
 - Accuracy: ~94.5%
@@ -51,3 +52,4 @@ demonstrate learning outcomes.
 - Pandas & NumPy
 
 ---
+
